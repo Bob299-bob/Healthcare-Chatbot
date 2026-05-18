@@ -1,2 +1,6 @@
 streamlit==1.35.0
 tensorflow-cpu==2.16.1
+numpy==1.26.4
+pandas==2.2.2
+joblib
+scikit-learn
