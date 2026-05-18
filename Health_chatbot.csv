@@ -1,0 +1,98 @@
+,Pattern,Tag
+0,Hi,greeting
+1,Hello,greeting
+2,Hey,greeting
+3,Namaste,greeting
+4,Kaise ho,greeting
+5,Hello bot,greeting
+6,Good morning,greeting
+7,Good evening,greeting
+8,Hi doctor,greeting
+9,Hey chatbot,greeting
+10,Aur bhai,greeting
+11,Kya haal hai,greeting
+12,I have fever,fever
+13,High fever,fever
+14,Body temperature high,fever
+15,Mujhe bukhar hai,fever
+16,Bukhar aa raha hai,fever
+17,Feeling hot,fever
+18,My body is hot,fever
+19,Tez bukhar hai,fever
+20,Burning body,fever
+21,Fever since morning,fever
+22,Temperature is high,fever
+23,I have cold,cold
+24,Runny nose,cold
+25,Sneezing continuously,cold
+26,Mujhe sardi hai,cold
+27,Naak beh rahi hai,cold
+28,Khansi aur sardi,cold
+29,Cold problem,cold
+30,Throat irritation,cold
+31,Nose blocked,cold
+32,Cough ho raha hai,cold
+33,I have headache,headache
+34,Head pain,headache
+35,Migraine,headache
+36,Sar dard ho raha hai,headache
+37,Sir me pain hai,headache
+38,My head hurts,headache
+39,Severe headache,headache
+40,Head spinning,headache
+41,Feeling headache,headache
+42,Stomach pain,stomach_pain
+43,Pet dard ho raha hai,stomach_pain
+44,Abdominal pain,stomach_pain
+45,Gas problem,stomach_pain
+46,Acidity ho rahi hai,stomach_pain
+47,My stomach hurts,stomach_pain
+48,Vomiting,stomach_pain
+49,Nausea,stomach_pain
+50,Loose motion,stomach_pain
+51,Digestive problem,stomach_pain
+52,I have cough,cough
+53,Khansi ho rahi hai,cough
+54,Dry cough,cough
+55,Wet cough,cough
+56,Cough problem,cough
+57,Khasi aa rahi hai,cough
+58,Continuous coughing,cough
+59,Throat pain,cough
+60,Severe cough,cough
+61,Medicine timing,medicine
+62,Tablet timing,medicine
+63,Medicine dose,medicine
+64,Dawai kab leni hai,medicine
+65,Should I take tablet,medicine
+66,Can I take medicine now,medicine
+67,Medicine kab khani hai,medicine
+68,Book appointment,appointment
+69,Doctor available,appointment
+70,Appointment timing,appointment
+71,Need doctor appointment,appointment
+72,Doctor consultation,appointment
+73,Doctor se milna hai,appointment
+74,Appointment book karna hai,appointment
+75,Emergency help,emergency
+76,Need ambulance,emergency
+77,Critical condition,emergency
+78,Urgent help,emergency
+79,Call ambulance,emergency
+80,Patient serious,emergency
+81,Emergency situation,emergency
+82,Heart attack,emergency
+83,Accident ho gaya,emergency
+84,Thanks,thanks
+85,Thank you,thanks
+86,Shukriya,thanks
+87,Dhanyawad,thanks
+88,Thanks a lot,thanks
+89,Thank you so much,thanks
+90,Bye,goodbye
+91,Goodbye,goodbye
+92,See you,goodbye
+93,Take care,goodbye
+94,Bye bye,goodbye
+95,Phir milte hain,goodbye
+96,Good night,goodbye

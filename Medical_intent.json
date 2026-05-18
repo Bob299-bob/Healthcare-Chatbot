@@ -1,0 +1,288 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Namaste",
+                "Kaise ho",
+                "Hello bot",
+                "Good morning",
+                "Good evening",
+                "Hi doctor",
+                "Hey chatbot",
+                "Aur bhai",
+                "Kya haal hai"
+            ],
+            "responses_english": [
+                "Hello! How can I help you today?",
+                "Hi there! Please tell me your health issue."
+            ],
+            "responses_hindi": [
+                "नमस्ते! मैं आपकी कैसे मदद कर सकता हूँ?",
+                "हैलो! कृपया अपनी समस्या बताइए।"
+            ],
+            "responses_hinglish": [
+                "Hello! Batao kya problem hai?",
+                "Hi! Kaise help kar sakta hoon?"
+            ]
+        },
+        {
+            "tag": "fever",
+            "patterns": [
+                "I have fever",
+                "High fever",
+                "Body temperature high",
+                "Mujhe bukhar hai",
+                "Bukhar aa raha hai",
+                "Feeling hot",
+                "My body is hot",
+                "Tez bukhar hai",
+                "Burning body",
+                "Fever since morning",
+                "Temperature is high"
+            ],
+            "responses_english": [
+                "Please drink plenty of fluids and take rest.",
+                "If fever continues, consult a doctor."
+            ],
+            "responses_hindi": [
+                "कृपया आराम करें और ज्यादा पानी पिएं।",
+                "अगर बुखार लगातार रहे तो डॉक्टर से संपर्क करें।"
+            ],
+            "responses_hinglish": [
+                "Rest karo aur zyada paani piyo.",
+                "Bukhar zyada ho toh doctor ko dikhao."
+            ]
+        },
+        {
+            "tag": "cold",
+            "patterns": [
+                "I have cold",
+                "Runny nose",
+                "Sneezing continuously",
+                "Mujhe sardi hai",
+                "Naak beh rahi hai",
+                "Khansi aur sardi",
+                "Cold problem",
+                "Throat irritation",
+                "Nose blocked",
+                "Cough ho raha hai"
+            ],
+            "responses_english": [
+                "Drink warm water and take rest.",
+                "Avoid cold drinks and stay warm."
+            ],
+            "responses_hindi": [
+                "गर्म पानी पिएं और आराम करें।",
+                "ठंडी चीजों से बचें और शरीर को गर्म रखें।"
+            ],
+            "responses_hinglish": [
+                "Warm water piyo aur rest karo.",
+                "Cold drinks avoid karo."
+            ]
+        },
+        {
+            "tag": "headache",
+            "patterns": [
+                "I have headache",
+                "Head pain",
+                "Migraine",
+                "Sar dard ho raha hai",
+                "Sir me pain hai",
+                "My head hurts",
+                "Severe headache",
+                "Head spinning",
+                "Feeling headache"
+            ],
+            "responses_english": [
+                "Take proper rest and stay hydrated.",
+                "Avoid excessive screen exposure."
+            ],
+            "responses_hindi": [
+                "आराम करें और पर्याप्त पानी पिएं।",
+                "मोबाइल और स्क्रीन का उपयोग कम करें।"
+            ],
+            "responses_hinglish": [
+                "Rest karo aur paani piyo.",
+                "Mobile thoda kam use karo."
+            ]
+        },
+        {
+            "tag": "stomach_pain",
+            "patterns": [
+                "Stomach pain",
+                "Pet dard ho raha hai",
+                "Abdominal pain",
+                "Gas problem",
+                "Acidity ho rahi hai",
+                "My stomach hurts",
+                "Vomiting",
+                "Nausea",
+                "Loose motion",
+                "Digestive problem"
+            ],
+            "responses_english": [
+                "Eat light food and drink water.",
+                "Avoid oily and spicy food."
+            ],
+            "responses_hindi": [
+                "हल्का भोजन करें और पानी पिएं।",
+                "तेल मसाले वाली चीजों से बचें।"
+            ],
+            "responses_hinglish": [
+                "Light food khao aur rest karo.",
+                "Oily food avoid karo."
+            ]
+        },
+        {
+            "tag": "cough",
+            "patterns": [
+                "I have cough",
+                "Khansi ho rahi hai",
+                "Dry cough",
+                "Wet cough",
+                "Cough problem",
+                "Khasi aa rahi hai",
+                "Continuous coughing",
+                "Throat pain",
+                "Severe cough"
+            ],
+            "responses_english": [
+                "Drink warm fluids and avoid cold items.",
+                "Consult a doctor if cough continues."
+            ],
+            "responses_hindi": [
+                "गर्म चीजें पिएं और ठंडी चीजों से बचें।",
+                "अगर खांसी लगातार रहे तो डॉक्टर से सलाह लें।"
+            ],
+            "responses_hinglish": [
+                "Warm water aur soup lo.",
+                "Khansi zyada ho toh doctor ko dikhao."
+            ]
+        },
+        {
+            "tag": "medicine",
+            "patterns": [
+                "Medicine timing",
+                "Tablet timing",
+                "Medicine dose",
+                "Dawai kab leni hai",
+                "Should I take tablet",
+                "Can I take medicine now",
+                "Medicine kab khani hai"
+            ],
+            "responses_english": [
+                "Please follow your doctor's prescription.",
+                "Take medicines only as advised."
+            ],
+            "responses_hindi": [
+                "कृपया डॉक्टर की सलाह के अनुसार दवा लें।",
+                "दवाई सही समय पर लें।"
+            ],
+            "responses_hinglish": [
+                "Doctor ki advice follow karo.",
+                "Medicine time par lo."
+            ]
+        },
+        {
+            "tag": "appointment",
+            "patterns": [
+                "Book appointment",
+                "Doctor available",
+                "Appointment timing",
+                "Need doctor appointment",
+                "Doctor consultation",
+                "Doctor se milna hai",
+                "Appointment book karna hai"
+            ],
+            "responses_english": [
+                "Appointments are available from 9 AM to 5 PM.",
+                "You can book an appointment online."
+            ],
+            "responses_hindi": [
+                "अपॉइंटमेंट सुबह 9 बजे से शाम 5 बजे तक उपलब्ध हैं।",
+                "आप ऑनलाइन अपॉइंटमेंट बुक कर सकते हैं।"
+            ],
+            "responses_hinglish": [
+                "Appointment 9 AM se 5 PM tak available hai.",
+                "Aap online booking kar sakte ho."
+            ]
+        },
+        {
+            "tag": "emergency",
+            "patterns": [
+                "Emergency help",
+                "Need ambulance",
+                "Critical condition",
+                "Urgent help",
+                "Call ambulance",
+                "Patient serious",
+                "Emergency situation",
+                "Heart attack",
+                "Accident ho gaya"
+            ],
+            "responses_english": [
+                "Please contact emergency services immediately.",
+                "Visit the nearest hospital urgently."
+            ],
+            "responses_hindi": [
+                "कृपया तुरंत इमरजेंसी सेवाओं से संपर्क करें।",
+                "निकटतम अस्पताल तुरंत जाएं।"
+            ],
+            "responses_hinglish": [
+                "Turant ambulance call karo.",
+                "Nearest hospital immediately jao."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "Shukriya",
+                "Dhanyawad",
+                "Thanks a lot",
+                "Thank you so much"
+            ],
+            "responses_english": [
+                "You're welcome!",
+                "Happy to help!"
+            ],
+            "responses_hindi": [
+                "आपका स्वागत है!",
+                "मदद करके खुशी हुई।"
+            ],
+            "responses_hinglish": [
+                "Koi baat nahi 😊",
+                "Happy to help!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you",
+                "Take care",
+                "Bye bye",
+                "Phir milte hain",
+                "Good night"
+            ],
+            "responses_english": [
+                "Goodbye! Take care.",
+                "Have a healthy day!"
+            ],
+            "responses_hindi": [
+                "अलविदा! अपना ध्यान रखें।",
+                "स्वस्थ रहें!"
+            ],
+            "responses_hinglish": [
+                "Bye! Apna dhyan rakhna 😊",
+                "Phir milte hain!"
+            ]
+        }
+    ]
+}
